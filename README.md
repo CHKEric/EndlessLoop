@@ -1,6 +1,4 @@
-# EndlessLoop - python
-
-## EndlessLoop:基于Python的循环游戏
+# EndlessLoop:基于Python的循环游戏
 
 灵感来自Bilibili GoldenEggs的作品：无尽循环
 
