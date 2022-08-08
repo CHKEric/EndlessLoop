@@ -19,7 +19,7 @@
 
 —————————————————————————————————————
 —————————————————————————————————————
->反馈：CHKEric2022@gmail.com /CHKEric2022@hotmail.com（Gmail中国大陆无法发送的话就用Hotmail）
+>反馈：CHKEric2022@gmail.com / CHKEric2022@hotmail.com （Gmail中国大陆无法发送的话就用Hotmail）
 >
 >无尽循环-自制项目（python程序）
 >  
