@@ -10,8 +10,9 @@
 
 优秀，不止优秀
 
-<span color = darkred; font-size = 36px;>惊悚，不止惊悚</span>
-<p color = darkred;>不要忘记——————这是无尽循环</p>
+惊悚，不止惊悚
+
+不要忘记——————这是无尽循环
 
 感谢下载
 
